@@ -1,4 +1,4 @@
-package com.ebg.dine.dine;
+package com.ebg.dine;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
